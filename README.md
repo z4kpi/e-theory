@@ -1,2 +1,2 @@
-# e-theory
+# e#theory
 elementary number theory
